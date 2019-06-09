@@ -1,0 +1,2 @@
+ganzhi为信息融合节点
+tuxiangshibie为识别车牌节点
