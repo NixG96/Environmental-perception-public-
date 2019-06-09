@@ -1,2 +1,0 @@
-ronghe为融合节点
-tuxiangshibie为识别车牌的节点
